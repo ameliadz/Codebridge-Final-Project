@@ -11,7 +11,7 @@ Requirements:
 - Styled with flexbox/grid, and the positioning property.
 - Include CSS3 keyframes and animations.
 - ES6 syntax.
-- Use at least two JavaScript techniques covered in class. (Arrays, loops, conditionals, etc.)
+- Use at least two JavaScript techniques covered in class. (Arrays, loops, conditionals, setInterval, etc.)
 - Use at least one JS technique not officially covered in class. (Classes, local storage)
 - Include: at least 5 images, UL or OL, and a modal.
 
